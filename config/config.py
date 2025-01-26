@@ -1,12 +1,12 @@
-# Copyright (C) 2021-2022 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Copyright (C) 2025 by NOBITA_SUPPORT @ Github, < https://github.com/vishalpandeynkp1 >
+# Subscribe On YT < VISHAL PANDEY TEAM >. All rights reserved. © Alexa © Yukki.
 
 """"
-Alexa is a Telegram Audio and video streaming bot 
-Copyright (c) 2021 ~ Present Team Alexa <https://github.com/TheTeamAlexa>
+NOBITA_SUPPORT is a project of Telegram bots with variety of purposes.
+Copyright (c) 2021 ~ Present Team Nobita <https://github.com/vishalpandeynkp1>
 
 This program is free software: you can redistribute it and can modify
-as you want.
+as you want or you can collabe if you have new ideas.
 """
 
 import re
@@ -41,15 +41,15 @@ BOT_ID = getenv("BOT_ID")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TheTeamAlexa/AlexaMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/vishalpandeynkp1/A-Music")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_ALL_BOT")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+OsAgHgPQwyU4Zjg1")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -67,7 +67,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/TheTeamAlexa/AlexaMusic")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/vishalpandeynkp1/A-Music")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 
@@ -108,7 +108,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/d593c6064ff7657d0c714.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/6ncc2n.jpg"
 )
 
 PING_IMG_URL = getenv(
